@@ -1,0 +1,4 @@
+.venv/
+.Aula/
+poetry.look
+pyproject.toml
